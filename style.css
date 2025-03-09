@@ -1,0 +1,29 @@
+#mascote{
+    margin: -12px;
+    width: 10%;
+    height: auto;
+    float: center;
+
+}
+
+.mundo{
+    display: inline-flex;
+    align-items: center;
+    gap: 100px;
+    background-color: #1E1E1E;
+    height: 100px;
+    width: 100%;
+    margin: 0%;
+
+}
+
+h1{
+    color: #ffff;
+}
+
+body {
+    background: linear-gradient(to bottom, #1B13FB, #1409e0); 
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
